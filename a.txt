@@ -1,1 +1,2 @@
-git add a.txt/n
+Git is good
+Github is awesome
